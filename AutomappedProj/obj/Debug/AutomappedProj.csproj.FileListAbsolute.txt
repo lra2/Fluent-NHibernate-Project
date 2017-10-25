@@ -1,0 +1,11 @@
+C:\Users\luqui\Desktop\FluentNHibernateProj\AutomappedProj\bin\Debug\AutomappedProj.exe.config
+C:\Users\luqui\Desktop\FluentNHibernateProj\AutomappedProj\bin\Debug\AutomappedProj.exe
+C:\Users\luqui\Desktop\FluentNHibernateProj\AutomappedProj\bin\Debug\AutomappedProj.pdb
+C:\Users\luqui\Desktop\FluentNHibernateProj\AutomappedProj\bin\Debug\FluentNHibernate.dll
+C:\Users\luqui\Desktop\FluentNHibernateProj\AutomappedProj\bin\Debug\NHibernate.dll
+C:\Users\luqui\Desktop\FluentNHibernateProj\AutomappedProj\bin\Debug\FluentNHibernate.pdb
+C:\Users\luqui\Desktop\FluentNHibernateProj\AutomappedProj\bin\Debug\FluentNHibernate.xml
+C:\Users\luqui\Desktop\FluentNHibernateProj\AutomappedProj\bin\Debug\NHibernate.xml
+C:\Users\luqui\Desktop\FluentNHibernateProj\AutomappedProj\obj\Debug\AutomappedProj.csprojResolveAssemblyReference.cache
+C:\Users\luqui\Desktop\FluentNHibernateProj\AutomappedProj\obj\Debug\AutomappedProj.exe
+C:\Users\luqui\Desktop\FluentNHibernateProj\AutomappedProj\obj\Debug\AutomappedProj.pdb
